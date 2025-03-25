@@ -1,2 +1,2 @@
 # Eat-and-Drink-laravel
-Site made with Laravel
+A website made with Laravel
